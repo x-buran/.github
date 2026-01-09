@@ -8,7 +8,7 @@ factorial {
     [𝑛] ↦ [𝑛 × factorial(𝑛 − 1)]
 }
 ```
-Designed with non-human coding and development in mind, Buran's consistent syntax and clear semantics make it ideal for machine generation while remaining readable by humans—including specialist non-programmers such as mathematicians, who can write programs using standard ISO 80000-2 notation, and linguists who can express grammatical rules directly as pattern transformations.
+Designed with non-human coding and development in mind, Buran's consistent syntax and clear semantics make it ideal for non-human coding while remaining readable by humans—including specialist non-programmers such as mathematicians, who can write programs using standard ISO 80000-2 notation, and linguists who can express grammatical rules directly as pattern transformations.
 
 No special syntax for different constructs. No historical accidents. No "we kept this for backward compatibility." Functions are patterns. Data structures are patterns. Type declarations are patterns. I/O is patterns. It's patterns all the way down.
 
