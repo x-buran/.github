@@ -15,3 +15,12 @@ No special syntax for different constructs. No historical accidents. No "we kept
 The syntax uses standard mathematical notation — the same symbols mathematicians have used for centuries. A mathematician can read Buran code like a formula. A linguist can express grammatical rules directly. And an AI system can generate it reliably because there are no special cases to trip over.
 
 Buran supports Unicode identifiers natively. The factorial function can be `factorial` in English, `факториал` in Russian, `階乗` in Japanese, `مضروب` in Arabic.
+
+## Linguistics
+
+Buran excels at natural language processing tasks where text must be analyzed, transformed, and structured. Its pattern-matching foundation makes it natural to express grammatical rules, morphological transformations, and syntactic parsing. The language's support for Unicode and extended grapheme clusters ensures proper handling of text in any human language.
+
+## Mathematics
+
+With native support for mathematical notation following ISO standards, Buran allows mathematicians and scientists to write expressions as they would on paper. Domain-specific evaluation for matrices, complex numbers, symbolic calculus, and statistics enables sophisticated mathematical computation while maintaining notational clarity.
+
