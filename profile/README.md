@@ -22,5 +22,5 @@ Buran excels at natural language processing tasks where text must be analyzed, t
 
 ## Mathematics
 
-With native support for mathematical notation following ISO standards, Buran allows mathematicians and scientists to write expressions as they would on paper. Domain-specific evaluation for matrices, complex numbers, symbolic calculus, and statistics enables sophisticated mathematical computation while maintaining notational clarity.
+With native support for mathematical notation following ISO standards, Buran allows mathematicians and scientists to write expressions as they appear in mathematics textbooks. Domain-specific evaluation for matrices, complex numbers, symbolic calculus, and statistics enables sophisticated mathematical computation while maintaining notational clarity.
 
